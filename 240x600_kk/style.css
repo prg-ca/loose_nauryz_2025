@@ -13,7 +13,7 @@ body * {
 
 .container {
   position: absolute;
-  width: 300px;
+  width: 240px;
   height: 600px;
   top: 0;
   left: 0;
@@ -44,41 +44,41 @@ img {
 
 #logo {
   width: 180px;
-  left: 60px;
-  top: 43px;
+  left: 28px;
+  top: 44px;
 }
 
 #txt01 {
-  width: 245px;
-  left: 27px;
-  top: 149px;
+  width: 210px;
+  left: 15px;
+  top: 154px;
 }
 #txt02 {
-  width: 245px;
-  left: 27px;
-  top: 199px;
+  width: 211px;
+  left: 14px;
+  top: 196px;
 }
 
 #tulip_left {
-  width: 73px;
+  width: 64px;
   left: 0px;
-  top: 227px;
+  top: 232px;
   /* transform-origin: center bottom; */
 
 }
 
 #tulip_right {
-  width: 71px;
-  left: 229px;
-  top: 218px;
+  width: 62px;
+  left: 178px;
+  top: 230px;
   /* transform-origin: center top; */
 
 }
 
 #plate {
-  width: 286px;
-  left: 14px;
-  top: 295px;
+  width: 270px;
+  left: -10px;
+  top: 310px;
   transform: rotate(0deg);
   /* transform: rotate(120deg); */
   transform-origin: left top;
@@ -88,7 +88,7 @@ img {
 
 #schirm {
   position: absolute;
-  width: 300px;
+  width: 240px;
   height: 600px;
   top: 0;
   left: 0;
